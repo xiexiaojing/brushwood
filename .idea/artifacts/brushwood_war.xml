@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="brushwood:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="brushwood.war">
+      <element id="artifact" artifact-name="brushwood:war exploded" />
+    </root>
+  </artifact>
+</component>
